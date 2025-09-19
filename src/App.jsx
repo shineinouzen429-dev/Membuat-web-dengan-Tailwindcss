@@ -1,11 +1,19 @@
-
+import Navbar from "./Component/Navbar"
+import Footer from "./Component/Footer"
+import Homepage from "./Pages/Homepage"
 
 function App() {
 return (
   <div>
- <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+    {/*Navbar*/}
+    <Navbar/>
+
+    {/*Content*/}
+   {/* <Homepage/>*/}
+
+    {/*Footer*/}
+   {/* <Navbar/> */}
+
   </div>
 )
 }
