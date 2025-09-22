@@ -9,10 +9,10 @@ return (
     <Navbar/>
 
     {/*Content*/}
-   {/* <Homepage/>*/}
+    <Homepage/>
 
     {/*Footer*/}
-   {/* <Navbar/> */}
+    <Footer/>
 
   </div>
 )
